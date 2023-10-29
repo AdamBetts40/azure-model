@@ -1,0 +1,4 @@
+CustomerID,FirstName,EmploymentStatus,Country,Area,IG,IsMinted
+1,Adam,Employed,UK,Midlands,N,N
+2,Zino,Contractor,France,Paris,Y,N
+3,Jamez,Contractor,UK,Sheffield,N,Y

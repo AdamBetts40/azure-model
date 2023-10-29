@@ -1,0 +1,5 @@
+AccountID,SegmentID,AccountNumber,TransactionAmount,TransactionDate,TransactionType
+100,1,S123456,10,01/08/2023,Payment
+101,1,S999999,2,01/08/2023,Payment
+102,1,S696969,25000,02/08/2023,Payment
+101,1,S999999,-1,01/08/2023,Withdrawal
